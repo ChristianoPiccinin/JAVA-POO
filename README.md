@@ -89,8 +89,33 @@ public class Conta {
 * Getters/Setters
 
 R: Os metodos **Getters** e **Setters** são usados para pegar as informações de variaveis que estão declaradas como **private**, dessa forma, gera mais segurança no código. 
+```java
+package greetings;
 
+import javax.inject.Inject;
+import javax.enterprise.context.RequestScoped;
+import javax.inject.Named;
 
+@Named
+@RequestScoped
+public class Printer {
+
+    @Inject @Informal Greeting greeting;
+    
+    private String name;
+    private String salutation;
+		
+    /*metodod de setter*/
+    public void setName(String name) {
+       this.name = name;
+    }
+    /*metodod de getter*/
+    public String getName() {
+       return name;
+    }
+}
+
+```
 
 * Palavra reservada public/private
 
