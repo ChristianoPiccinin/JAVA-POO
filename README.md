@@ -132,6 +132,13 @@ public class Pessoa{
 
 * Assinatura de método
 
+R: Combinação do nome do método, tipos e ordem dos parâmetros.
+```java
+public void setIdade(int newIdade){
+	idade = newIdade;
+}
+```
+
 * Sobrecarga de método
 
 R: A sobrecarga de métodos consiste basicamente em criar variações de um mesmo método, ou seja, a criação de dois ou mais métodos com nomes totalmente iguais em uma classe.
