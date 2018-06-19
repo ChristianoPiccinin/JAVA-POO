@@ -74,7 +74,7 @@ class Test {
 # Encapsulamento
 
 R:  Encapsulamento é basicamente separar o programa em pequenas partes, o mais isolado possivel. 
-* Palavra reservada this
+# Palavra reservada this
 
 R: Variável de referência que diz respeito a instancia atual de um objeto.
 
