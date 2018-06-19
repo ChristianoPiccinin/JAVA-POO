@@ -72,6 +72,7 @@ class Test {
 
 * Encapsulamento
 
+R:  Encapsulamento é basicamente separar o programa em pequenas partes, o mais isolado possivel. 
 * Palavra reservada this
 
 R: Variável de referência que diz respeito a instancia atual de um objeto.
@@ -86,6 +87,10 @@ public class Conta {
 ```
 
 * Getters/Setters
+
+R: Os metodos **Getters** e **Setters** são usados para pegar as informações de variaveis que estão declaradas como **private**, dessa forma, gera mais segurança no código. 
+
+
 
 * Palavra reservada public/private
 
