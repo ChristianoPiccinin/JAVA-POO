@@ -1,10 +1,15 @@
 # Glossário
 
 * Construtor
-
-Um Issue é um incidente. O <<github>> possui um sistema de gerenciamento de incidentes (Issue tracker) integrado. Exemplos de incidentes são erros (bugs) 
-e correções reportadas, que ficam aguardando avaliações. Quando um incidente
-é registrado, ele é marcado como aberto (open), quando ele é finalizado 
+Os construtores são os responsáveis por criar o objeto em memória, ou seja, instanciar a classe que foi definida
+```Java
+public class Pessoa{
+ 	/* construtor da classe Pessoa  */
+	public Pessoa(){
+	  
+	}
+}
+```
 
 * Instanciação
 
