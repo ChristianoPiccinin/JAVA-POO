@@ -1,6 +1,7 @@
 # Glossário
 
 * Construtor
+
 Os construtores são os responsáveis por criar o objeto em memória, ou seja, instanciar a classe que foi definida
 ```Java
 public class Pessoa{
