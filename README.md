@@ -15,15 +15,19 @@ public class Pessoa{
 * Instanciação
 
 * Palavra reservada new
- Usada para instanciar um objeto;
+
+ Usada para instanciar um objeto.
 
 * Palavra reservada instanciof
+
 Determina se um objeto é a instancia de uma classe, superclasse ou interface.
 
 * Encapsulamento
 
 * Palavra reservada this
-Variável de referência que diz respeito a instancia atual de um objeto;
+
+Variável de referência que diz respeito a instancia atual de um objeto.
+
 * Getters/Setters
 
 * Palavra reservada public/private
