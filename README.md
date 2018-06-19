@@ -3,7 +3,7 @@
 * Construtor
 
 R: Os construtores são os responsáveis por criar o objeto em memória, ou seja, instanciar a classe que foi definida.
-```Java
+```java
 public class Pessoa{
 	/* construtor da classe Pessoa  */
 	public Pessoa(){
@@ -13,10 +13,11 @@ public class Pessoa{
 ```
 
 * Instanciação
+
 R: A instanciação realiza uma cópia de um objeto existente. Dessa forma podemos utilizar a função de uma outra classe em nosso código.
 
 
-```Java
+```java
 /*classe que será instanciada*/
 public class Pessoa{
             public char   sexo;
@@ -39,7 +40,7 @@ public class Aluno{
 
 * Palavra reservada new
 
-R:Usada para instanciar um objeto.
+R: Usada para instanciar um objeto.
  
 ```java
 public class Aluno{
@@ -52,7 +53,7 @@ public class Aluno{
 
 * Palavra reservada instanciof
 
-R:Determina se um objeto é a instancia de uma classe, superclasse ou interface, desta forma é possivel comparar se o tipo da variavel é de uma determinada classe. 
+R: Determina se um objeto é a instancia de uma classe, superclasse ou interface, desta forma é possivel comparar se o tipo da variavel é de uma determinada classe. 
 
 ```java
 class Point   { int x, y; }
@@ -73,7 +74,7 @@ class Test {
 
 * Palavra reservada this
 
-R:Variável de referência que diz respeito a instancia atual de um objeto.
+R: Variável de referência que diz respeito a instancia atual de um objeto.
 
 ```java
 public class Conta {
@@ -89,6 +90,7 @@ public class Conta {
 * Palavra reservada public/private
 
 R:public Faz com que uma classe, método ou variável possa ser acessado a partir de qualquer outra classe.
+
 private Faz com que um método ou variável possa ser acessado somente de dentro da própria classe;
 
 
@@ -111,10 +113,17 @@ private Faz com que um método ou variável possa ser acessado somente de dentro
 
 
 # Links:
+
 (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 (https://www.devmedia.com.br/o-que-significa-cada-palavra-reservada/8320)
+
 (https://www.devmedia.com.br/encapsulamento-polimorfismo-heranca-em-java/12991)
+
 (https://www.devmedia.com.br/conceitos-e-exemplos-instanciacao-estrutura-da-linguagem/18817)
+
 (http://www.guj.com.br/t/o-que-e-instanceof/31561)
+
 (https://docs.oracle.com/javase/specs/jls/se10/html/jls-15.html#d5e29775)
+
 (http://www.guj.com.br/t/declaracao-da-variavel-de-objeto-e-comando-this/48874)
