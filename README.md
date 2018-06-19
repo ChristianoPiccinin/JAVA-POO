@@ -134,6 +134,20 @@ public class Pessoa{
 
 * Sobrecarga de método
 
+R: A sobrecarga de métodos consiste basicamente em criar variações de um mesmo método, ou seja, a criação de dois ou mais métodos com nomes totalmente iguais em uma classe.
+
+```java
+public class calculadora{
+ public int calcula( int a, int b){
+    return a+b;
+  }
+  public double calcula( double a, double b){
+     return a+b;
+  }
+   public String calcula( String a, String b){
+     return a+b;
+}
+```
 * Escopo de classe
 
 * Escopo de objeto
