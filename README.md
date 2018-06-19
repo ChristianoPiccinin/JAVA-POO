@@ -1,6 +1,24 @@
 # Glossário
 
-# *  Construtor
+* Construtor
+* Instanciação
+* Palavra reservada new
+* Palavra reservada instanceof
+* Encapsulamento
+* Palavra reservada this
+* Getters/Setters
+* Palavras reservadas public/private
+* Assinatura de Método
+* Sobrecarga de Método
+* Escopo de Classe
+* Escopo de Objeto
+* Palavra reservada final
+* Relacionamento de Dependência
+* Relacionamento de Associação Simples
+* Relacionamento de Agregação
+* Relacionamento de Composição
+
+# Construtor
 
 R: Os construtores são os responsáveis por criar o objeto em memória, ou seja, instanciar a classe que foi definida.
 ```java
@@ -12,7 +30,7 @@ public class Pessoa{
 }
 ```
 
-* Instanciação
+# Instanciação
 
 R: A instanciação realiza uma cópia de um objeto existente. Dessa forma podemos utilizar a função de uma outra classe em nosso código.
 
@@ -38,7 +56,7 @@ public class Aluno{
 
 ```
 
-* Palavra reservada new
+# Palavra reservada new
 
 R: Usada para instanciar um objeto.
  
@@ -51,7 +69,7 @@ public class Aluno{
 }
 ```
 
-* Palavra reservada instanciof
+# Palavra reservada instanciof
 
 R: Determina se um objeto é a instancia de uma classe, superclasse ou interface, desta forma é possivel comparar se o tipo da variavel é de uma determinada classe. 
 
@@ -70,7 +88,7 @@ class Test {
 }
 ```
 
-* Encapsulamento
+# Encapsulamento
 
 R:  Encapsulamento é basicamente separar o programa em pequenas partes, o mais isolado possivel. 
 * Palavra reservada this
@@ -86,7 +104,7 @@ public class Conta {
 }
 ```
 
-* Getters/Setters
+# Getters/Setters
 
 R: Os metodos **Getters** e **Setters** são usados para pegar as informações de variaveis que estão declaradas como **private**, dessa forma, gera mais segurança no código. 
 ```java
@@ -117,7 +135,7 @@ public class Printer {
 
 ```
 
-* Palavra reservada public/private
+# Palavra reservada public/private
 
 R: A palavra reservada **public** faz com que uma classe, método ou variável possa ser acessado a partir de qualquer outra classe.
 
@@ -130,7 +148,7 @@ public class Pessoa{
 }
 ```
 
-* Assinatura de método
+# Assinatura de método
 
 R: Combinação do nome do método, tipos e ordem dos parâmetros.
 ```java
@@ -139,7 +157,7 @@ public void setIdade(int newIdade){
 }
 ```
 
-* Sobrecarga de método
+# Sobrecarga de método
 
 R: A sobrecarga de métodos consiste basicamente em criar variações de um mesmo método, ou seja, a criação de dois ou mais métodos com nomes totalmente iguais em uma classe.
 
@@ -155,16 +173,16 @@ public class calculadora{
      return a+b;
 }
 ```
-* Escopo de classe
+# Escopo de classe
 
 R: 
 
-* Escopo de objeto
+# Escopo de objeto
 
 R: 
 
 
-* Palavra reservada final
+# Palavra reservada final
 
 R: Quando usada na definição de uma variável, significa que a variável não pode assumir outro valor, tornando-se uma constante. 
 
@@ -174,11 +192,11 @@ public class PI {
 }
 ```
 
-* Relacionamento de dependência
+# Relacionamento de dependência
 
-* Relacinamento de Agregação
+# Relacinamento de Agregação
 
-* Relacionamento de Composição
+# Relacionamento de Composição
 
 
 
