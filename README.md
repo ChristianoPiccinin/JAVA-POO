@@ -1,6 +1,6 @@
 # Glossário
 
-* Construtor
+* **Construtor
 
 R: Os construtores são os responsáveis por criar o objeto em memória, ou seja, instanciar a classe que foi definida.
 ```java
@@ -12,7 +12,7 @@ public class Pessoa{
 }
 ```
 
-* Instanciação
+* **Instanciação
 
 R: A instanciação realiza uma cópia de um objeto existente. Dessa forma podemos utilizar a função de uma outra classe em nosso código.
 
