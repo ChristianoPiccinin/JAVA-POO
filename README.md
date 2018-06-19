@@ -93,6 +93,12 @@ R: A palavra reservada **public** faz com que uma classe, método ou variável p
 
 Já a palavra reservada **private** restringe a classe, método ou variavel somente de dentro da própria classe, desta forma não pode ser acessada atravez de outras classes.
 
+```java
+public class Pessoa{
+	private int cpf;
+	public String nome;
+}
+```
 
 * Assinatura de método
 
