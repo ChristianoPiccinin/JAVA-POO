@@ -1,6 +1,6 @@
 # Glossário
 
-* **Construtor
+* Construtor
 
 R: Os construtores são os responsáveis por criar o objeto em memória, ou seja, instanciar a classe que foi definida.
 ```java
@@ -12,7 +12,7 @@ public class Pessoa{
 }
 ```
 
-* **Instanciação
+* Instanciação
 
 R: A instanciação realiza uma cópia de um objeto existente. Dessa forma podemos utilizar a função de uma outra classe em nosso código.
 
@@ -89,9 +89,9 @@ public class Conta {
 
 * Palavra reservada public/private
 
-R: public Faz com que uma classe, método ou variável possa ser acessado a partir de qualquer outra classe.
+R: A palavra reservada **public** faz com que uma classe, método ou variável possa ser acessado a partir de qualquer outra classe.
 
-private Faz com que um método ou variável possa ser acessado somente de dentro da própria classe;
+Já a palavra reservada **private** restringe a classe, método ou variavel somente de dentro da própria classe, desta forma não pode ser acessada atravez de outras classes.
 
 
 * Assinatura de método
