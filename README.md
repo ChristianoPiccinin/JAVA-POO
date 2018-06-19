@@ -1,22 +1,5 @@
 # Glossário
 
-* Construtor
-* Instanciação
-* Palavra reservada new
-* Palavra reservada instanceof
-* Encapsulamento
-* Palavra reservada this
-* Getters/Setters
-* Palavras reservadas public/private
-* Assinatura de Método
-* Sobrecarga de Método
-* Escopo de Classe
-* Escopo de Objeto
-* Palavra reservada final
-* Relacionamento de Dependência
-* Relacionamento de Associação Simples
-* Relacionamento de Agregação
-* Relacionamento de Composição
 
 # Construtor
 
