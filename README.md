@@ -89,7 +89,7 @@ public class Conta {
 
 * Palavra reservada public/private
 
-R:public Faz com que uma classe, método ou variável possa ser acessado a partir de qualquer outra classe.
+R: public Faz com que uma classe, método ou variável possa ser acessado a partir de qualquer outra classe.
 
 private Faz com que um método ou variável possa ser acessado somente de dentro da própria classe;
 
