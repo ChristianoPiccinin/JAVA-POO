@@ -104,6 +104,14 @@ private Faz com que um método ou variável possa ser acessado somente de dentro
 
 * Palavra reservada final
 
+R: Quando usada na definição de uma variável, significa que a variável não pode assumir outro valor, tornando-se uma constante. 
+
+```java
+public class PI {
+    public static final double PI = 3.141592653589793;
+}
+```
+
 * Relacionamento de dependência
 
 * Relacinamento de Agregação
