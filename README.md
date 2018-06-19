@@ -2,12 +2,12 @@
 
 * Construtor
 
-Os construtores são os responsáveis por criar o objeto em memória, ou seja, instanciar a classe que foi definida
+Os construtores são os responsáveis por criar o objeto em memória, ou seja, instanciar a classe que foi definida.
 ```Java
 public class Pessoa{
- 	/* construtor da classe Pessoa  */
+	/* construtor da classe Pessoa  */
 	public Pessoa(){
-	  
+
 	}
 }
 ```
