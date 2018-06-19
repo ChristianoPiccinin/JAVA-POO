@@ -1,6 +1,6 @@
 # Glossário
 
-* Construtor
+# *  Construtor
 
 R: Os construtores são os responsáveis por criar o objeto em memória, ou seja, instanciar a classe que foi definida.
 ```java
@@ -157,17 +157,12 @@ public class calculadora{
 ```
 * Escopo de classe
 
-R: Escopo refere-se à vida e acessibilidade. Quão grande é o alcance depende de onde é declarada. Existem quatro:
-.Variáveis estáticas vivem pelo mesmo tempo da classe.
-
-.Variáveis de instância vivem pelo mesmo tempo do objeto.
-
-.Variáveis locais vivem pelo mesmo tempo que os seus métodos na pilha, se o método chamar outro método, estas ficam temporariamente indisponíveis.
-
-.As variáveis de bloco (for, if...) vivem até a conclusão do bloco.
-
+R: 
 
 * Escopo de objeto
+
+R: 
+
 
 * Palavra reservada final
 
