@@ -201,7 +201,11 @@ public class PI {
 
 # Relacionamento de dependência
 
+R: Na classe de dependencia, uma classe necessita de uma outra classe. Por exemplo, Classe B depende de Classe A.
+
 # Relacinamento de Agregação
+
+R: Nesse tipo de relacionamento, 
 
 # Relacionamento de Composição
 
