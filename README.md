@@ -203,19 +203,19 @@ public class PI {
 
 R: Na classe de dependencia, uma classe necessita de uma outra classe. Por exemplo, Classe B depende de Classe A.
 
-![Relacionamento de Dependecia](https://github.com/ChristianoPiccinin/JAVA-POO/master/imgs/dependencia.png)
+![Relacionamento de Dependecia](https://uploaddeimagens.com.br/images/001/473/658/original/dependencia.PNG)
 
 # Relacinamento de Agregação
 
 R: Nesse tipo de relacionamento, a principal função é  identificar a obrigatóriedade de uma complementação entre elas. 
 
-![Relacionamento de Agregação](https://github.com/ChristianoPiccinin/JAVA-POO/imgs/agrecacao.png)
+![Relacionamento de Agregação](https://uploaddeimagens.com.br/images/001/473/661/original/agregacao.PNG)
 
 # Relacionamento de Composição
 
 R: Indica a representação entre a "Parte" e o "Todo", a parte só pode exister se compor o todo.
 
-![Relacionamento de Composição](https://github.com/ChristianoPiccinin/JAVA-POO/imgs/composicao.png)
+![Relacionamento de Composição](https://uploaddeimagens.com.br/images/001/473/657/original/composicao.PNG)
 
 # Links:
 
