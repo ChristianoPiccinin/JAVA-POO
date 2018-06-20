@@ -203,7 +203,7 @@ public class PI {
 
 R: Na classe de dependencia, uma classe necessita de uma outra classe. Por exemplo, Classe B depende de Classe A.
 
-![Relacionamento de Dependecia](http://cdn.osxdaily.com/wp-content/uploads/2013/07/dancing-banana.gif)
+![Relacionamento de Dependecia](imgs\agregacao.PNG)
 
 # Relacinamento de Agregação
 
