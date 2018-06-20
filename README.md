@@ -175,11 +175,18 @@ public class calculadora{
 ```
 # Escopo de classe
 
-R: 
+R: O escopo é a visibilade de como a classe é vista pelos demais programas. 
 
 # Escopo de objeto
 
-R: 
+R: O escope de objeto é a parte do programa onde as variaveis são acessiveis. Na tabela abaixo é possivel ver os tipos de classificação.
+
+|Modifier  |Package | Subclass | World | 
+|----------|--------|----------|-------|
+|public    |  Yes   |   Yes    |   Yes |
+|protected |  Yes   |   Yes    |   No  |
+|Default   |  Yes   |   No     |   No  |
+|private   |  No    |   No     |   No  |
 
 
 # Palavra reservada final
